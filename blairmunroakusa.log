@@ -1,0 +1,24 @@
+LOG == placestamp stack with dot stacks within placestamps
+
+blairmunroakusa@0948.020422.anch.AK:redcouch
+
+
+. building out prototype implementations
+	. clerical...initializing bashmod
+	. setting softlinks to absolute (to preserve flat repo structure)
+. settled on final structure
+
+blairmunroakusa@1121.020122.anch.AK:redcouch
+
+. migrating
+. got readmes dialed in
+. figured out linking and overall structure
+
+blairmunroakusa@1723.013122.anch.AK:FT
+
+. finally implementing some structure
+	. I am going to get busy with project stuff,
+	. so I want to make sure my world is in order.
+. dialed into nested git repo / submodule solution
+. realized that my git world is a total mess
+	. need to resolve mess before I go project-wild
